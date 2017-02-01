@@ -1,1 +1,2 @@
 G:\github-demo\GithubDemoApp\GithubDemoApp\bin\Debug\GithubDemoApp.exe.config
+C:\Users\10175705\Documents\GitHub\github-demo\GithubDemoApp\GithubDemoApp\bin\Debug\GithubDemoApp.exe.config
